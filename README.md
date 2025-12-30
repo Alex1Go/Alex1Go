@@ -56,8 +56,14 @@ I love solving problems, improving UX, and learning new technologies every day.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex1Go&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1Go&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Alex1Go&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1Go&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+  />
 </p>
 
 ---
@@ -65,7 +71,10 @@ I love solving problems, improving UX, and learning new technologies every day.
 ### 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex1go&theme=tokyonight&hide_border=true" height="160" />
+  <img
+    src="https://streak-stats.demolab.com?user=Alex1Go&theme=tokyonight&hide_border=true"
+    height="160"
+  />
 </p>
 
 ---
