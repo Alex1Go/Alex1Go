@@ -56,7 +56,8 @@ I love solving problems, improving UX, and learning new technologies every day.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alex1Go&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex1Go&show_icons=true&theme=tokyonight&hide_border=true" alt="Alex1Go GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1Go&layout=compact&theme=tokyonight&hide_border=true" alt="Alex1Go Top Languages" height="180" />
 </p>
 
 ---
@@ -72,7 +73,7 @@ I love solving problems, improving UX, and learning new technologies every day.
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Alex1Go/Alex1Go/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
