@@ -56,25 +56,23 @@ I love solving problems, improving UX, and learning new technologies every day.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Alex1Go&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1Go&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alex1Go&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔥 GitHub Activity
 
+- 🔥 Active Front-End / Full-Stack Developer  
+- 🚀 Regular commits & continuous learning  
+- 🧠 Focus on clean code and performance 
+
+---
+
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Alex1Go&theme=tokyonight&hide_border=true"
-    height="160"
-  />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
