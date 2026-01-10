@@ -56,11 +56,12 @@ I love solving problems, improving UX, and learning new technologies every day.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Alex1Go?base=header,activity,community,repositories&base.indepth=true&theme=tokyonight" alt="GitHub Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex1Go&show_icons=true&theme=tokyonight&count_private=true&cache_bust=1" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1Go&layout=compact&theme=tokyonight&cache_bust=1" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex1Go&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex1Go&theme=tokyonight&cache_bust=1" alt="GitHub Streak" />
 </p>
 
 ---
@@ -84,7 +85,22 @@ I love solving problems, improving UX, and learning new technologies every day.
 ### 📫 Let’s Connect
  
 💼 [LinkedIn](https://www.linkedin.com/in/oleksii-hostryk/)
-📧 agostrik@gmail.com  
+📧 agostrik@gmail.com 
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/oleksii-hostryk/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:agostrik@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
