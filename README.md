@@ -56,8 +56,8 @@ I love solving problems, improving UX, and learning new technologies every day.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex1Go&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1Go&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex1Go&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1Go&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="180" />
 </p>
 
 ---
