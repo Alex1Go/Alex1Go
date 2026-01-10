@@ -83,9 +83,12 @@ I love solving problems, improving UX, and learning new technologies every day.
 ---
 
 ### 📫 Let’s Connect
- 
+
+ <div>
 💼 [LinkedIn](https://www.linkedin.com/in/oleksii-hostryk/)
 📧 agostrik@gmail.com 
+ </div>
+
 
 <table border="0">
   <tr>
