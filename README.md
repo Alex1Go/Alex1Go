@@ -3,6 +3,8 @@
 💡 Passionate about building modern, responsive, and performant web applications.  
 I love solving problems, improving UX, and learning new technologies every day.
 
+![](https://komarev.com/ghpvc/?username=Alex1Go&color=blueviolet&style=for-the-badge)
+
 ---
 
 ### ⚙️ Tech Stack
@@ -56,8 +58,8 @@ I love solving problems, improving UX, and learning new technologies every day.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex1Go&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1Go&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex1Go&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1Go&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -67,6 +69,18 @@ I love solving problems, improving UX, and learning new technologies every day.
 - 🔥 Active Front-End / Full-Stack Developer  
 - 🚀 Regular commits & continuous learning  
 - 🧠 Focus on clean code and performance 
+
+---
+
+### 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alex1Go&theme=tokyo-night)
+
+---
+
+### 💬 Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
@@ -80,7 +94,7 @@ I love solving problems, improving UX, and learning new technologies every day.
 
 ### 📫 Let’s Connect
  
-💬 [LinkedIn](https://www.linkedin.com/in/oleksii-hostryk/)  
+💼 [LinkedIn](https://www.linkedin.com/in/oleksii-hostryk/)
 📧 agostrik@gmail.com  
 
 ---
