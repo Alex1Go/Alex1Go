@@ -1,9 +1,81 @@
+# Oleksii Hostryk  
+**Front-End / Junior–Middle Full-Stack Developer**
+
+I build clean, scalable, and user-focused web applications.  
+Focused on **React**, **TypeScript**, performance, and good UX.
+
+---
+
+## 🚀 Core Skills
+
+**Frontend**
+- React, Redux Toolkit
+- TypeScript, JavaScript (ES6+)
+- HTML5, CSS3, SCSS
+- Responsive & adaptive layouts
+- Vite
+
+**Backend (Basic / Confident)**
+- Node.js, Express
+- REST APIs
+- MongoDB
+
+**Workflow**
+- Git & GitHub
+- Code reviews
+- Agile / Scrum
+- Clean Code, SOLID basics
+
+---
+
+## 🧠 What I Focus On
+
+- Writing **readable and maintainable** code  
+- Building **real-world interfaces**, not just UI  
+- Improving **performance & accessibility**  
+- Learning every day and applying it in practice  
+
+---
+
+## 📌 Current Goals
+
+- Grow as a **Front-End Engineer**
+- Deepen knowledge of **React ecosystem**
+- Improve architecture & state management skills
+- Work in a team with strong engineering culture
+
+---
+
+## 📊 GitHub Snapshot
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex1Go&show_icons=true&hide_border=true&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🐍 Activity
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Alex1Go/Alex1Go/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/oleksii-hostryk/
+- 📧 Email: agostrik@gmail.com
+
+---
+
+> *I value clarity, responsibility, and long-term growth over hype.*
+
+
 # 👋 Hi, I'm Oleksii — Front-End / Full-Stack Developer
 
 💡 Passionate about building modern, responsive, and performant web applications.  
 I love solving problems, improving UX, and learning new technologies every day.
-
-![](https://komarev.com/ghpvc/?username=Alex1Go&color=blueviolet&style=for-the-badge)
 
 ---
 
@@ -72,18 +144,6 @@ I love solving problems, improving UX, and learning new technologies every day.
 
 ---
 
-### 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alex1Go&theme=tokyo-night)
-
----
-
-### 💬 Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -101,3 +161,4 @@ I love solving problems, improving UX, and learning new technologies every day.
 
 ⭐ *“Code with clarity, build with purpose.”*
 
+![](https://komarev.com/ghpvc/?username=Alex1Go&color=blueviolet&style=for-the-badge)
