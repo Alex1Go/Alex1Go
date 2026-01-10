@@ -83,33 +83,6 @@ I love solving problems, improving UX, and learning new technologies every day.
 * 💼 **LinkedIn:** [oleksii-hostryk](https://www.linkedin.com/in/oleksii-hostryk/)
 * 📧 **Email:** [agostrik@gmail.com](mailto:agostrik@gmail.com)
 
-💼 [LinkedIn](https://www.linkedin.com/in/oleksii-hostryk/)  
-📧 [agostrik@gmail.com](mailto:agostrik@gmail.com)
-
-<a href="https://www.linkedin.com/in/oleksii-hostryk/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:agostrik@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/oleksii-hostryk/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:agostrik@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ⭐ *“Code with clarity, build with purpose.”*
