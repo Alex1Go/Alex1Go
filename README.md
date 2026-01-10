@@ -59,6 +59,10 @@ I love solving problems, improving UX, and learning new technologies every day.
   <img src="https://metrics.lecoq.io/Alex1Go?base=header,activity,community,repositories&base.indepth=true&theme=tokyonight" alt="GitHub Metrics" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex1Go&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
 ---
 
 ### 🔥 GitHub Activity
